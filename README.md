@@ -1,2 +1,2 @@
 # Prestashop Docker Configuration
-by TnTrunks
+by Eliphaz
