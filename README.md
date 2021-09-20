@@ -1,2 +1,2 @@
 # Prestashop Docker Configuration
-by Yenux
+by Elxphaz
