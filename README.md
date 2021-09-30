@@ -1,2 +1,2 @@
 # Prestashop Docker Configuration
-by Roxkstar
+by Elxphaz
