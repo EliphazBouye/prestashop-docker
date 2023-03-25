@@ -1,2 +1,2 @@
-# Prestashop Docker Configuration
-by Eliphaz Bouye
+# Docker Configuration for Prestashop
+make by Eliphaz Bouye
